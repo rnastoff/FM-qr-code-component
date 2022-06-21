@@ -1,5 +1,5 @@
 # QR CODE COMPONENT
-- [Frontend](https://www.frontendmentor.io/) Mentor Challenge
+- [Frontend Mentor](https://www.frontendmentor.io/) Challenge
 - Uses React
 ---
 ![screenshot](image.png)
